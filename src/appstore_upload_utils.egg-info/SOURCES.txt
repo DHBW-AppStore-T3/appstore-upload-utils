@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/appstore_upload_utils/__init__.py
+src/appstore_upload_utils/upload_formats.py
+src/appstore_upload_utils/upload_validation.py
+src/appstore_upload_utils.egg-info/PKG-INFO
+src/appstore_upload_utils.egg-info/SOURCES.txt
+src/appstore_upload_utils.egg-info/dependency_links.txt
+src/appstore_upload_utils.egg-info/top_level.txt
+tests/test_upload_formats.py
+tests/test_upload_validation.py
